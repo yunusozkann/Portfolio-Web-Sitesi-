@@ -1,0 +1,100 @@
+/* Genel Stil */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+/* Header Stili */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+}
+
+header h1 {
+  margin: 0;
+}
+
+header nav a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+/* Ana İçerik Stili */
+main {
+  padding: 20px 0;
+}
+
+section {
+  padding-bottom: 20px;
+}
+
+section h2 {
+  color: #333;
+}
+
+.proje {
+  width: calc(50% - 20px);
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+}
+
+.proje img {
+  width: 100%;
+  height: auto;
+}
+
+.proje h3 {
+  color: #333;
+}
+
+.baslik-rengi {
+  color: #ff6600; /* Özel Başlık Rengi */
+}
+
+.hizmet {
+  text-align: center;
+}
+
+.hizmet i {
+  font-size: 30px;
+  color: #333;
+}
+
+/* İletişim Bölümü Stili */
+section#iletisim form input[type="text"],
+section#iletisim form input[type="email"],
+section#iletisim form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+section#iletisim form button[type="submit"] {
+  background-color: #ff6600;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+section#iletisim form button[type="submit"]:hover {
+  background-color: #cc5500;
+}
+
+/* Footer Stili */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+

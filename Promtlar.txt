@@ -1,0 +1,34 @@
+Promt 1
+
+Bir ön web geliştiricisi olarak hareket etmenizi istiyorum.
+Proje için şu araçları kullanarak yeni bir web sitesi kodlayacaksınız:
+HTML, CSS ve JavaScript kullanarak yeni bir web sitesi geliştirilecek.
+Bootstrap çerçevesi kullanılacak ve Twitter Bootstrap CSS sınıfları en son sürümüyle entegre edilecek.
+Web sitesi mobil uyumlu ve duyarlı olacak.
+İçeriğin gezinme menüsü, başlıklara dahili bağlantılar içerecek.
+Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir.
+HTML, CSS ve Javascript kodlarini ayrı çıktılar olarak vermen önemlidir.
+Her şeyi anlıyor musun? 
+Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
+
+Promt 2
+
+Web sitesi, şirketin daha önce tamamladığı inşaat projelerini sergileyecek.
+Proje detayları, görseller ve hizmetler hakkında bilgi içerecek.
+İletişim bilgileri ve projelerle ilgili bilgi talep formu gibi iletişim seçenekleri sunacak.
+Temiz, modern ve profesyonel bir tasarım istiyoruz.
+Proje görsellerinin ve bilgilerinin vurgulanmasını sağlayacak bir düzen istiyoruz.
+Kolay gezinme ve kullanıcı dostu arayüz önemlidir.
+Hedef kitlemiz,Potansiyel müşterilerimiz, gayrimenkul geliştiricileri, mülk sahipleri ve inşaat endüstrisi profesyonelleri gibi inşaat ve gayrimenkul sektörüne ilgi duyan kişiler.
+Yatırımcılar ve ortaklar da potansiyel hedef kitlemiz arasında yer alabilir.
+Web sitesinin tüm modern web tarayıcılarında (Chrome, Firefox, Safari, Edge) sorunsuz çalışmasını istiyoruz.
+Ayrıca mobil cihazlarda (akıllı telefonlar ve tabletler) da kullanılabilir olmalıdır.
+Responsive tasarım, site içeriğinin farklı ekran boyutlarına uyumlu olmasını sağlamalıdır.
+Kullanıcıların geri bildirimlerini alabilmemiz için bir form eklemelisin.
+Eğer sormak istedğin birşey yoksa başlayabilir miyiz?
+
+Promt 3
+
+Web sitesinin ismi "Seydaoğlu Tasarım",Markamızın Renk paleti Siyah ve Gri olmalı.
+Web sitemizin Metin içeriğini daha profosyonel ve hatasız hale getirmek için bir editor gibi davranmanı,görsel tasarımını daha profosyonel hale getirmek için ise bir grafik tasarımcı gibi davranmanı rica ediyorum.
+
